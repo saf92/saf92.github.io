@@ -2,7 +2,8 @@
 ## About
 Interested in macroeconomics, in particular the income and wealth distribution and the monetary system and statistics, in particular power law distributions.
 
-<img src="https://github.com/saf92/saf92.github.io/blob/main/pl_fit.png" alt="power_law_pic" width="400"/>
+<img src="pl_fit.png" alt="power_law_pic" width="400"/>
+<!-- <img src="https://github.com/saf92/saf92.github.io/blob/main/pl_fit.png" alt="power_law_pic" width="400"/> -->
 
 <!-- ![image](https://github.com/saf92/saf92.github.io/blob/main/pl_fit.png) -->
 
@@ -10,7 +11,10 @@ PhD Mathematics of Systems, University of Warwick, 2022
 
 [CV](https://drive.google.com/file/d/1AScG9Irzva_lSbv93S2_JKajhDKzlt-H/view?usp=share_link)
 
+[GitHub](https://github.com/saf92)
+
 Contact: forbessam2@gmail.com
+
 
 
 ## Research
