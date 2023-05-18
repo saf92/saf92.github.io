@@ -3,6 +3,7 @@
 Research interests:
 - the income and wealth distribution
 - the monetary system 
+- agent based models
 - power law distributions
 
 <img src="pl_fit.png" alt="power_law_pic" width="400"/>
